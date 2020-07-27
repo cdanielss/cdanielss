@@ -1,4 +1,7 @@
-### Hi there 👋
+My name is Carlos Daniel, and I'm from Brazil (🇧🇷). Student of Information Systems at UFPI. I like games and am a lover of new technologies. Be welcome !
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-17a320196)](https://www.linkedin.com/in/carlos-daniel-17a320196)
+
 
 <!--
 **cdanielss/cdanielss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
