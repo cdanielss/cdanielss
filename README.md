@@ -1,3 +1,5 @@
+Meu nome é Carlos Daniel. Estudante de Sistemas de Informação na UFPI. Gosto de jogos e adoro novas tecnologias. Seja bem-vindo !
+
 My name is Carlos Daniel, and I'm from Brazil (🇧🇷). Student of Information Systems at UFPI. I like games and am a lover of new technologies. Be welcome !
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-17a320196)](https://www.linkedin.com/in/carlos-daniel-17a320196)
