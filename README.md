@@ -2,8 +2,6 @@
 
 I'm from Brazil (🇧🇷). Student of Information Systems at UFPI.
 
-![Carlos Daniel github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cdanielss&show_icons=true&hide_border=true)
-
 Things I like to do:
 - 🎨 Interfaces
 - 🖥 Web Applications
