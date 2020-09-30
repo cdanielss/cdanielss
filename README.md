@@ -1,21 +1,12 @@
-Meu nome é Carlos Daniel. Estudante de Sistemas de Informação na UFPI. Gosto de jogos e adoro novas tecnologias. Seja bem-vindo !
+## Hi, I'm Carlos Daniel. Nice to meet you. 👋🏾
 
-My name is Carlos Daniel, and I'm from Brazil (🇧🇷). Student of Information Systems at UFPI. I like games and am a lover of new technologies. Be welcome !
+I'm from Brazil (🇧🇷). Student of Information Systems at UFPI.
+
+![Carlos Daniel github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=cdanielss&show_icons=true&hide_border=true)
+
+Things I like to do:
+- 🎨 Interfaces
+- 🖥 Web Applications
+- 📱 Applications
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-daniel-17a320196)](https://www.linkedin.com/in/carlos-daniel-17a320196)
-
-
-<!--
-**cdanielss/cdanielss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
